@@ -29,15 +29,15 @@ export default function Footer() {
             </div>
             <p className={`text-gray-400 mb-4 ${language === "ar" ? "font-cairo" : ""}`}>{t("hero.description")}</p>
             <div className="flex space-x-4 rtl:space-x-reverse">
-              <Link href="#" className="text-gray-400 hover:text-primary transition-colors">
+              {/* <Link href="#" className="text-gray-400 hover:text-primary transition-colors">
                 <Facebook className="h-5 w-5" />
-              </Link>
-              <Link href="#" className="text-gray-400 hover:text-primary transition-colors">
+              </Link> */}
+              <Link href="https://www.instagram.com/playtopia.sa?igsh=cTVuNDVwdjNyazQ2&utm_source=qr" className="text-gray-400 hover:text-primary transition-colors">
                 <Instagram className="h-5 w-5" />
               </Link>
-              <Link href="#" className="text-gray-400 hover:text-primary transition-colors">
+              {/* <Link href="#" className="text-gray-400 hover:text-primary transition-colors">
                 <Twitter className="h-5 w-5" />
-              </Link>
+              </Link> */}
             </div>
           </div>
 

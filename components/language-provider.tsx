@@ -41,10 +41,10 @@ const translations = {
     "cta.title": "Ready to Experience the Fun?",
     "cta.subtitle": "Book your adventure today and create unforgettable memories",
     "cta.button": "Book Now",
-    "footer.rights": "All Rights Reserved",
+    "footer.rights": "All Rights Reserved. شركة الهوايات للترفية",
     "footer.address": "Ash Shulah, EAPB7477، 7477, Dammam 34265",
-    "footer.phone": "+966559750502",
-    "footer.email": "info@playtopia.com",
+    "footer.phone": "+966138300839",
+    "footer.email": "info@hobbies2.com",
   },
   ar: {
     home: "الرئيسية",
@@ -74,10 +74,10 @@ const translations = {
     "cta.title": "هل أنت مستعد لتجربة المرح؟",
     "cta.subtitle": "احجز مغامرتك اليوم واصنع ذكريات لا تُنسى",
     "cta.button": "احجز الآن",
-    "footer.rights": "جميع الحقوق محفوظة",
+    "footer.rights": "جميع الحقوق محفوظة. شركة الهوايات للترفية",
     "footer.address": "Ash Shulah, الدمام",
-    "footer.phone": "+966559750502",
-    "footer.email": "info@playtopia.com",
+    "footer.phone": "+966138300839",
+    "footer.email": "info@hobbies2.com",
   },
 }
 
