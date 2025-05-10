@@ -17,7 +17,7 @@ const cairo = Cairo({
 })
 
 export const metadata: Metadata = {
-  title: "PlayTopia - Fun in Action | بلاي توبيا - المرح في العمل",
+  title: "شركة الهوايات للترفية - المرح في العمل",
   description: "Creating unforgettable experiences for everyone | نخلق تجارب لا تُنسى للجميع",
     generator: 'v0.dev'
 }
