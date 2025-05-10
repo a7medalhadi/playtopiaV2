@@ -24,7 +24,7 @@ export default function Footer() {
                 className="h-12 w-auto"
               />
               <span className={`text-xl font-bold ${language === "ar" ? "font-cairo" : ""}`}>
-                {language === "en" ? "PlayTopia" : "بلاي توبيا"}
+                {language === "en" ? "شركة الهوايات للترفية" : "شركة الهوايات للترفية"}
               </span>
             </div>
             <p className={`text-gray-400 mb-4 ${language === "ar" ? "font-cairo" : ""}`}>{t("hero.description")}</p>
@@ -90,7 +90,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className={`text-gray-400 text-sm ${language === "ar" ? "font-cairo" : ""}`}>
-            © {currentYear} PlayTopia. {t("footer.rights")}
+            © {currentYear} {t("footer.rights")}
           </p>
         </div>
       </div>

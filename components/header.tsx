@@ -56,7 +56,7 @@ export default function Header() {
               className="h-12 w-auto"
             />
             <span className={`text-xl font-bold text-primary ${language === "ar" ? "font-cairo" : ""}`}>
-              {language === "en" ? "PlayTopia" : "بلاي توبيا"}
+              {language === "en" ? "شركة الهوايات للترفية" : "شركة الهوايات للترفية"}
             </span>
           </Link>
 
